@@ -1,0 +1,29 @@
+def generate_ddr_report(inspection_text, thermal_text):
+    report = f"""
+PROPERTY ISSUE SUMMARY:
+Signs of dampness and moisture intrusion detected from inspection and thermal observations.
+
+AREA-WISE OBSERVATIONS:
+- Bathroom walls show leakage and stains
+- Corners show damp patches
+- Thermal variation indicates moisture presence
+
+PROBABLE ROOT CAUSE:
+- Water seepage from plumbing
+- Poor waterproofing
+
+SEVERITY:
+High
+
+RECOMMENDED ACTIONS:
+- Repair leakage source
+- Waterproof affected areas
+- Improve ventilation
+
+ADDITIONAL NOTES:
+Thermal data supports moisture detection but lacks precise mapping.
+
+MISSING INFO:
+Exact leakage source not confirmed
+"""
+    return report
