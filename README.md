@@ -15,6 +15,7 @@ An AI-powered system that processes inspection and thermal PDF reports and gener
 ---
 
 ## 🏗️ Project Structure
+```
 ai-ddr-report-generator/
 │
 ├── app.py
@@ -32,7 +33,7 @@ ai-ddr-report-generator/
 ├── thermal.pdf
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ⚙️ How It Works
@@ -71,6 +72,7 @@ Streamlit UI
 Real-time AI integration
 PDF report generation automation
 ---
+````
 👩‍💻 Author
 
 Anjali
