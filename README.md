@@ -35,6 +35,13 @@ ai-ddr-report-generator/
 └── README.md
 ```
 ---
+## 📥 Input Files
+
+- inspection.pdf → Inspection report  
+- thermal.pdf → Thermal imaging report  
+
+These are used as inputs for generating the DDR report.
+---
 
 ## ⚙️ How It Works
 
@@ -73,6 +80,17 @@ Real-time AI integration
 PDF report generation automation
 ---
 ````
+## 📊 Sample Output
+
+A structured DDR report is generated with:
+
+- Property Issue Summary  
+- Area-wise Observations  
+- Root Cause  
+- Severity Assessment  
+- Recommendations  
+---
+```
 👩‍💻 Author
 
 Anjali
